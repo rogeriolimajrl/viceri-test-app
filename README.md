@@ -37,7 +37,7 @@ Aplicativo de exemplo que consome a API pública `https://jsonplaceholder.typico
 
 1. Conecte device ou abra AVD.
 2. Selecione o módulo `app` e clique em Run ▶️.
-3. O app fará fetch da API e populrá o banco local (Room). Use pull-to-refresh (arrastar para baixo) para recarregar.
+3. O app fará fetch da API e popular o banco local (Room). Use pull-to-refresh (arrastar para baixo) para recarregar.
 
 ---
 
